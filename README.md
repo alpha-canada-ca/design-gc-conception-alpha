@@ -1,45 +1,17 @@
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v1.4%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md) [![Slack](https://img.shields.io/badge/Slack-GC%20Design%20workspace-yellow?style=flat&logo=slack)](https://join.slack.com/t/design-gc-conception/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM)
+# Style Dictionary Complete Example
 
-([Français](#bienvenue-au-projet-de-système-de-conception-découverte))
+This starter project has everything you need to get started. 
 
-# Welcome to the design system project (Discovery)
+## How it works
 
-This repository provides some information and documentation about the work being done by the design system team.
-The team consists of folks from
-- the Digital Transformation Office at the Treasury Board Secretariat
-- the Principal Publisher at Service Canada
-- the Canadian Digital Service
+All of the design tokens and assets are in this package. Make any changes to suit your needs. This package has iOS, Android, and web code.
 
-Work in progress: This repository will include the roadmap for the project and any relevant information for future guidance and onboarding.
+To get started, run
+```
+$ npm install
+$ npm run build
+```
 
-## Outcome
+The npm build task is what performs the style dictionary build steps to generate the files for each platform. Every time you change something in the style dictionary, like changing colors or adding design tokens, you will have to run this command again to generate the files.
 
-Improve the experience of people and organizations that interact with Government of Canada information and services through guidance and improvements to the design and development of the front-end framework and design system used by departments and agencies.
-
-## Objective
-
-The GC Design System product team will bring together the enterprise-wide leads on digital design policy, practices and implementation to establish and define the GC Design System and the conditions needed for the success of a single, enterprise-wide GC design system supporting effective digital design.  The deliverables for v.1 will clarify the GC design system’s purpose, scope and components to meet the needs of the communities that the system is intended to serve.
-
-______________________
-
-[![Pacte des contributeurs](https://img.shields.io/badge/Pacte%20des%20contributeurs-v1.4%20adoptée-ff69b4.svg)](CODE_OF_CONDUCT.md) [![Slack](https://img.shields.io/badge/Slack-Espace%20de%20travaill%20de%20la%20conception%20au%20GC-yellow?style=flat&logo=slack)](https://join.slack.com/t/design-gc-conception/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM)
-
-([English](#welcome-to-the-design-system-project-discovery))
-
-# Bienvenue au projet de système de conception (Découverte)
-
-Ce dépôt contient l'information et la documentation sur le travail de l'équipe du système de conception.
-L'équipe est formée de membres des équipes :
-- du Bureau de la transformation numérique au Secrétariat du conseil du trésor
-- de l'Éditeur principal à Service Canada
-- du Service numérique canadien
-
-En développement : Ce dépôt incluera la feuille de route du projet ainsi que de l'information pertinente pour l'orientation et l'adoption future.
-
-## Résultat
-
-Améliorer l'expérience des gens et des organismes qui intéragissent avec l'information et les services du gouvernement du Canada en apportant des conseils et améliorations à la conception et au développement du cadre d'application "front end" et du système de conception utilisés par les minitères et agences.
-
-## Objectif
-
-L'équipe de produit Système de conception GC regroupera les leaders du gouvernement en politique de conception numérique, pratiques et de mise en oeuvre afin d'établir et définir le système de conception GC et les conditions nécessaires pour le succès d'un système de conception d'entreprise unique qui supporte une conception numérique efficace. Les livrables pour la version 1 clarifirons le but du système de conception, sa portée et ses composantes qui rencontreront les besoins des communautés destinées à l'utiliser.
+## iOS

@@ -1,0 +1,26 @@
+{
+  "asset": {
+    "font": {
+      "icon": {
+        "name" : { "value": "Glyphicons Halflings" },
+        "svg"  : { "value": "assets/fonts/glyphicons-halflings-regular.svg" },
+        "ttf"  : { "value": "assets/fonts/glyphicons-halflings-regular.ttf" },
+        "eot"  : { "value": "assets/fonts/glyphicons-halflings-regular.eot" },
+        "woff" : { "value": "assets/fonts/glyphicons-halflings-regular.woff" },
+        "woff2": { "value": "assets/fonts/glyphicons-halflings-regular.woff2" }
+      },
+      "noto": {
+        "name" : { "value": "Noto Sans" },
+        "ttf"  : { "value": "assets/fonts/NotoSans-Regular.ttf" }
+      },
+      "lato": {
+        "name" : { "value": "Lato" },
+        "ttf"  : { "value": "assets/fonts/Lato-Regular.ttf" }
+      },
+      "menlo": {
+        "name" : { "value": "Menlo" },
+        "ttf"  : { "value": "assets/fonts/Menlo-Regular.ttf" }
+      }
+   }
+  }
+}

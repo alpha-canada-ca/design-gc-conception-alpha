@@ -1,0 +1,15 @@
+{
+  "font": {
+    "family": {
+      "base": {
+        "value": "{asset.font.noto.name.value}"
+      },
+      "headings": {
+        "value": "{asset.font.lato.name.value}"
+      },
+      "icons": {
+        "value": "{asset.font.icon.name.value}"
+      }
+    }
+  }
+}
